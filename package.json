@@ -1,0 +1,24 @@
+{
+  "name": "testgame",
+  "version": "1.0.0",
+  "description": "Test app deployment of puppeteer tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferreira-VN/TestGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferreira-VN/TestGame/issues"
+  },
+  "homepage": "https://github.com/Ferreira-VN/TestGame#readme",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "puppeteer": "^14.2.1"
+  }
+}
